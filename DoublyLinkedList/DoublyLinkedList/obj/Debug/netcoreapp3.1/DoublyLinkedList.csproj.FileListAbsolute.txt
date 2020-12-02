@@ -1,0 +1,13 @@
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfo.cs
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.exe
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.deps.json
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.json
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.dev.json
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.dll
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.dll
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+C:\Users\leesa\OneDrive - Holmesglen Institute\Cloud Programming\AT2-Programming-Tasks\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.genruntimeconfig.cache
